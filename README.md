@@ -109,3 +109,38 @@ flowchart TD
 ```
 
 ---
+# 📸 Screenshots
+
+## 🏠 Home
+
+![Home](images/home.png)
+
+---
+
+## 🌐 GitHub Repository Analysis
+
+![GitHub](images/github.png)
+
+---
+
+## 📋 Project Summary
+
+![Summary](images/summary.png)
+
+---
+
+## 🏗 Architecture Analysis
+
+![Architecture](images/architecture.png)
+
+---
+
+## 🔒 Security Review
+
+![Security](images/security.png)
+
+---
+
+## 💬 AI Chat
+
+![Chat](images/chat.png)
