@@ -4,6 +4,7 @@ import zipfile
 import uuid
 import streamlit as st
 
+from llm import ask_gemini
 from project_info import get_project_info
 from prompts import CHAT_PROMPT
 
