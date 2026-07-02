@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Environment
+.env
+
+# Runtime folders
+github_repo/
+uploaded_repo/
+uploaded_repos/
+repositories/
+vectorstore/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
